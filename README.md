@@ -3,8 +3,8 @@
 
 ## Мои навыки
 * Владение современными возможностями C++. Контейнеры STL, RAII, шаблоны, функторы и умные указатели. [Домашние работы по курсу "Продвинутое программирование на С++"](https://github.com/Margaret-Alade/Modern-C-Homeworks)
-* Многопоточное и асинхронное программирование[Домашние работы по курсу "Многопоточное и асинхронное программирование"](https://github.com/Margaret-Alade/Threads-Homeworks)
-* Sql [Домашнее задание по курсу "Работа с базами данных"](https://github.com/Margaret-Alade/Task5)
+* Многопоточное и асинхронное программирование. [Домашние работы по курсу "Многопоточное и асинхронное программирование"](https://github.com/Margaret-Alade/Threads-Homeworks)
+* Sql. [Домашнее задание по курсу "Работа с базами данных"](https://github.com/Margaret-Alade/Task5)
 * Qt. [Домашние работы по курсу "Кросплатформенная разработка на Qt"](https://github.com/Margaret-Alade/Qt-Homeworks)
 * Разработка видеоигр на Unreal Engine 5. [Домашние работы по курсу "Разработка видеоигр на Unreal Engine 5"](https://github.com/Margaret-Alade/Unreal_Engine-Homeworks?tab=readme-ov-file)
 
