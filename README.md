@@ -11,7 +11,7 @@
 ## 🎓 Дипломный проект
 [Дипломный проект "Поисковая система"](https://github.com/Margaret-Alade/SearchSystem)
 
-## Сертификаты Нетологии
+## 🔖 Сертификаты Нетологии
 * [Продвинутое програмирования С++](https://github.com/Margaret-Alade/Certificate-advanced-C-programming)
 * [Работа с базами данных](https://github.com/Margaret-Alade/Certificate-working-with-databases/tree/main)
 * [Git](https://github.com/Margaret-Alade/Git_certificate)
